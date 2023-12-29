@@ -3,6 +3,10 @@
 ## To Run on your system
 Following libraries to be installed <br>
 `Turtle` <br>
+Type the following command in the terminal to install the required pre-requisite: <br>
+```
+sudo apt-get install python3-tk
+```
 Download the files on your system.<br>
 Run the main.py file to start the game.
 
